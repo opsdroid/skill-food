@@ -4,7 +4,7 @@ import aiohttp
 from opsdroid.matchers import match_regex
 
 
-@match_regex(r".*(w|W)(h)?at (should|shall) (I|i) eat(\?)?")
+@match_regex(r".*(w|W)(h)?at.*(should|shall) (I|i) eat(\?)?")
 async def whatshallieat(opsdroid, config, message):
 
     listoffood = [
