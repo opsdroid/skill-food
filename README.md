@@ -1,6 +1,6 @@
 # opsdroid skill food
 
-A skill for [opsdroid](https://github.com/opsdroid/opsdroid) to interact suggest tasty food.
+A skill for [opsdroid](https://github.com/opsdroid/opsdroid) to suggest tasty food.
 
 ## Requirements
 
