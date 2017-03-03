@@ -23,6 +23,7 @@ Suggests some food from Food2Fork.
 > user: What shall I eat?
 >
 > opsdroid: How about chicken fajitas?
+>
 > opsdroid: http://example.com/link-to-recipe-image.jpg
 
 ## License
