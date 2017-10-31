@@ -25,7 +25,3 @@ Suggests some food from Food2Fork.
 > opsdroid: How about chicken fajitas?
 >
 > opsdroid: http://example.com/link-to-recipe-image.jpg
-
-## License
-
-GNU General Public License Version 3 (GPLv3)
